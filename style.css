@@ -69,7 +69,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/images/nahid.jpeg') no-repeat;
+    background: url();
     background-size: cover;
     background-position: center;
 }
